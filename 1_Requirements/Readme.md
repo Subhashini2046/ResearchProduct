@@ -1,45 +1,55 @@
 # Requirements
 ## Introduction
- An air conditioner is a system that is used to cool down a space by removing heat from the space and moving it to some outside area. Air Conditioning has been defined as the process for treating air, so as to control simultaneously its temperature, humidity, cleanliness and distribution to meet the requirements of the conditioned space.Air conditioners require some input of work to operatre, otherwise entropy would decrease naturally which is forbidden by the Second law of thermodynamics. Air conditioners act similarly to a heat pump, but instead follow a cooling cycle. To cool, a substance known as a refrigerant is processed in the following steps:
- 1. A cold liquid refrigerant absorbs heat from the hotter room in the evaporator, cooling the room down.
- 2. The refrigerant then changes phase to a gas and is put through a compressor to increase its temperature.
- 3. Refrigerant then passes through the condenser coils, transferring heat from the refrigerant to the outside air.
- 4. Refrigerant expands in order to decrease its pressure and cool down to below the room's temperature to repeat the cycle again.
-
-The air conditioner is a key component of the HVAC system, which focuses on home temperature control in order to maximize comfort and livability in a space.
+An automated teller machine (ATM) or the automatic banking machine (ABM) is acomputerized telecommunications device that provides the clients of a financial institution withaccess to financial transactions in a public space without the need for a cashier, human clerk orbank teller. On most modern ATMs, the customer is identified by inserting a plastic ATM cardwith a magnetic stripe or a plastic smart card with a chip that contains a unique card number andsome security information such as an expiration date. Authentication is provided by the customerentering a personal identification number (PIN) Using an ATM, customers can access their bank accounts:
+        1. To make cash withdrawals
+        2. Check their account balances
+        3. Exchange rate for foreign travelers.
+Example- If the currency being withdrawn from the ATM is different from that which the bank account is denominated in (e.g.: Withdrawing Japanese Yen from a bank account containing USDollars), the money will be converted at a wholesale exchange rate. Thus, ATMs often providethe best possible exchange rate for foreign travelers and are heavily used for this purpose as well.
 
 ## Research
 
-HVAC is an acronym for heating, ventilating, and air conditioning. The term refers to a group of systems and machines used in buildings such as homes and buildings that regulate the indoor temperature and air quality to ensure comfort. In modern homes, these three functions are often combined into one system. These systems heat and cool air to a comfortable temperature, as well as providing comfortably humid air while improving air quality by bringing in fresh air. This incorporation of fresh air is particularly important in small spaces or high-odour areas.
-The main goal of any air conditioner is to move cooled air from one area to another. Generally speaking, this involves taking indoor air and changing its temperature to what is comfortable and distributing this treated air around a building. Many central air conditioning units are known as "split system", as there is an outdoor condenser and an indoor evaporator coil that work to cool the house.
-## Cost and Features and Timeline
-![Description](Link to Pic)
--- Content 
-## Defining Our System
-    -- TBD
+Globally, Automated Teller Machines (ATMs) have been adopted and are still being adopted by banks. They offer considerable benefits to both banks and their depositors. The machines can enable depositors to withdraw cash at more convenient times and places than during banking hours at branches. In addition, by automating services that were previously completed manually, ATMs reduce the costs of servicing some depositors of demand. These potential benefits are multiplied when banks share their ATMs, allowing depositor of other banks access their account through a bank’s ATM.
+## Cost and Features 
+**Cost**
+ATMs can vary in price ($2,000-$8,000), but typically the average new, freestanding ATM machine will cost around $2,300 – $3,000.
+
+**Feature**
+ ATMs can help us with a number of basic transactions. we can transfer funds, make a deposit (by cash or check), add funds to a prepaid card, make cash withdrawals and more.The features of the automated teller machine include the following:
+1. Transfer funds between linked bank accounts
+2. Receive account balance
+3. Prints recent transactions list
+4. Change your pin
+5. Deposit your cash
+6. Prepaid mobile recharge
+7. Bill payments
+8. Cash withdrawal
+
+## Defining the System
+![image](https://github.com/Subhashini2046/ResearchProduct/blob/ProductSdlc/1_Requirement/ATM.png)
 ## SWOT ANALYSIS
 ![image](https://github.com/Subhashini2046/ResearchProduct/blob/ProductSdlc/1_Requirements/SWOT.png)
 # 4W&#39;s and 1&#39;H
 
 ## Who:
 
-**TBD**
+**John Shepherd Barron(INVENTOR)**
+John Shepherd Barron born in India to Scottish parents in 1925 was the mastermind behind this ATM.
 
 ## What:
 
-**TBD**
+We all hate to go to the bank and stand in a queue to take money out. It’s because of the busy schedule and lack of time and strict banking hours. At the present scenario, it has become challenging to maintain the same. With the invention of the ATM and its instrument ATM card, our lives have become comfortable and relax.
 
 ## When:
-
-**TBD**
+ **June 1967**
+The first ATM was set up in June 1967 on a street in Enfield, London at a branch of Barclays bank. A British inventor named John Shepherd-Barron is credited with its invention. The machine allowed customers to withdraw a maximum of GBP10 at a time.
 
 ## Where:
 
-**TBD**
+ATMs can be placed at any location but are most often placed near or inside banks, shopping centers/malls, airports, railway stations, metro stations, grocery stores, petrol/gas stations, restaurants, and other locations. 
 
 ## How:
 
-**TBD**
+The ATM is an automatic banking machine (ABM) that allows the customer to complete basic transactions without any help from bank representativesAnyone with a credit card or debit card can access cash at most ATMs. 
 
 # Detail requirements
 ## High Level Requirements:

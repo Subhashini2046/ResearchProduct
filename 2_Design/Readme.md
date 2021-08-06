@@ -16,4 +16,4 @@
 ![HighLevelStructuralDiagram](Link to Pic)
 
 **Low Level System Diagrams**
-![FeaturesLevelStructuralDiagram](https://github.com/Subhashini2046/ResearchProduct/blob/ProductSdlc/2_Design/lowLevelS.jpg)
+![FeaturesLevelStructuralDiagram](https://github.com/Subhashini2046/ResearchProduct/blob/ProductSdlc/2_Design/systemL.png)

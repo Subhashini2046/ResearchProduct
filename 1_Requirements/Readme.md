@@ -25,7 +25,7 @@ ATMs can vary in price ($2,000-$8,000), but typically the average new, freestand
 8. Cash withdrawal
 
 ## Defining the System
-![image](https://github.com/Subhashini2046/ResearchProduct/blob/ProductSdlc/1_Requirement/ATM.png)
+![image](https://github.com/Subhashini2046/ResearchProduct/blob/ProductSdlc/1_Requirements/ATM.png)
 ## SWOT ANALYSIS
 ![image](https://github.com/Subhashini2046/ResearchProduct/blob/ProductSdlc/1_Requirements/SWOT.png)
 # 4W&#39;s and 1&#39;H

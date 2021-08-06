@@ -18,8 +18,7 @@ The main goal of any air conditioner is to move cooled air from one area to anot
 ## Defining Our System
     -- TBD
 ## SWOT ANALYSIS
-![image](Link to Pic)
-
+![image](https://github.com/Subhashini2046/ResearchProduct/blob/ProductSdlc/1_Requirements/SWOT.png)
 # 4W&#39;s and 1&#39;H
 
 ## Who:

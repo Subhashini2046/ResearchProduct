@@ -1,7 +1,5 @@
 # Design
 
-## High Level Design 
-
 ## Behavior Diagrams
 
 **High Level Behavioural Diagram**

@@ -1,7 +1,8 @@
 # Requirements
-                           ##Extractive Text Summarization##
+                               Extractive Text Summarization
 ## Introduction
 Text summarization is the process of distilling the most important information from a source to produce an abridged version for a particular user and task. Humans are generally quite good at this task as we have the capacity to understand the meaning of a text document and extract salient features to summarize the documents using our own words. However, automatic methods for text summarization are crucial in today’s world where there is an over-abundance of data and lack of manpower as well as time to interpret the data. 
+![image](https://github.com/Subhashini2046/ResearchProduct/blob/ProductSdlc/1_Requirements/dasum.png)
 
 ## Research
 
@@ -12,7 +13,7 @@ Usefull Links:
 
 ## Cost and Features 
 **Cost**
-ATMs can vary in price ($2,000-$8,000), but typically the average new, freestanding ATM machine will cost around $2,300 – $3,000.
+Since the system uses only open source software, it is free of cost.
 
 **Feature**
 
@@ -24,7 +25,7 @@ ATMs can vary in price ($2,000-$8,000), but typically the average new, freestand
 6. Utilizing programmed or Summarization frameworks empower business theoretical administrations to build the number of content archives they can process
 
 ## Defining the System
-![image](https://github.com/Subhashini2046/ResearchProduct/blob/ProductSdlc/1_Requirements/ATM.png)
+![image](https://github.com/Subhashini2046/ResearchProduct/blob/ProductSdlc/1_Requirements/model.png)
 ## SWOT ANALYSIS
 ![image](https://github.com/Subhashini2046/ResearchProduct/blob/ProductSdlc/1_Requirements/SWOT.png)
 # 4W&#39;s and 1&#39;H
@@ -38,23 +39,46 @@ This system is helpful for all the people who want the summary for any Text docu
 The Extractive text Summarization System summarizes the text of any document.
 
 ## When:
- **June 1967**
-The first ATM was set up in June 1967 on a street in Enfield, London at a branch of Barclays bank. A British inventor named John Shepherd-Barron is credited with its invention. The machine allowed customers to withdraw a maximum of GBP10 at a time.
+ With the growing amount of data in the world, interest in the field of automatic summarization generation has been widely increasing so as to reducing the manual effort of a person working on it. In this fast-paced life, everyone wants shorthand information to save time.
 
 ## Where:
 
-ATMs can be placed at any location but are most often placed near or inside banks, shopping centers/malls, airports, railway stations, metro stations, grocery stores, petrol/gas stations, restaurants, and other locations. 
+Used by any user who wants the information in a short text.
 
 ## How:
 
-The ATM is an automatic banking machine (ABM) that allows the customer to complete basic transactions without any help from bank representativesAnyone with a credit card or debit card can access cash at most ATMs. 
+The user can directly open the web application and can enter the text. Once the text is entered, the user is required to hit the summarize button to get the final summary.
 
 # Detail requirements
 ## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+|      ID          |Description                          |Status                         |
+|----------------|-------------------------------|-----------------------------|
+|HR_01|Data Pre-processing |Implemented|
+|HR_02| Feature Extraction |Implemented|
+|HR_03|RBM Calcuation|Implemented|
+|HR_04| Create Summary of English Text |Implemented|
+|HR_05|Result Evaluation |Implemented|
+|HR_06| Other Language Text Summary|Future|
+|HR_06| Deep learning model|Future|
+
+
 
 
 ##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+|      ID          |Description                          |  HLR_ID  |Status               |
+|----------------|-------------------------------|----------|-----------------------------|
+|LR_01|Sentence Segmentation|HR_01|Implemented|
+|LR_02|Tokenization|HR_01|Implemented|
+|LR_03|Stop words and Panctuation|HR_01|Implemented|
+|LR_04|TF-IDF|HR_02|Implemented|
+|LR_05|Thematic words|HR_02|Implemented|
+|LR_06|Nuber of numericals|HR_02|Implemented|
+|LR_07|Centroid Similarity|HR_02|Implemented|
+|LR_08|Feature Matrix|HR_02|Implemented|
+|LR_09|Feature Matrix Enhancement|HR_02|Implemented|
+|LR_10|Precision|HR_05|Implemented|
+|LR_11|Recall|HR_05|Implemented|
+|LR_12|F-measure|HR_05|Implemented|
+
+
+

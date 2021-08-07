@@ -1,28 +1,27 @@
 # Requirements
+                           ##Extractive Text Summarization##
 ## Introduction
-An automated teller machine (ATM) or the automatic banking machine (ABM) is acomputerized telecommunications device that provides the clients of a financial institution withaccess to financial transactions in a public space without the need for a cashier, human clerk orbank teller. On most modern ATMs, the customer is identified by inserting a plastic ATM cardwith a magnetic stripe or a plastic smart card with a chip that contains a unique card number andsome security information such as an expiration date. Authentication is provided by the customerentering a personal identification number (PIN) Using an ATM, customers can access their bank accounts:
-        1. To make cash withdrawals
-        2. Check their account balances
-        3. Exchange rate for foreign travelers.
-Example- If the currency being withdrawn from the ATM is different from that which the bank account is denominated in (e.g.: Withdrawing Japanese Yen from a bank account containing USDollars), the money will be converted at a wholesale exchange rate. Thus, ATMs often providethe best possible exchange rate for foreign travelers and are heavily used for this purpose as well.
+Text summarization is the process of distilling the most important information from a source to produce an abridged version for a particular user and task. Humans are generally quite good at this task as we have the capacity to understand the meaning of a text document and extract salient features to summarize the documents using our own words. However, automatic methods for text summarization are crucial in today’s world where there is an over-abundance of data and lack of manpower as well as time to interpret the data. 
 
 ## Research
 
-Globally, Automated Teller Machines (ATMs) have been adopted and are still being adopted by banks. They offer considerable benefits to both banks and their depositors. The machines can enable depositors to withdraw cash at more convenient times and places than during banking hours at branches. In addition, by automating services that were previously completed manually, ATMs reduce the costs of servicing some depositors of demand. These potential benefits are multiplied when banks share their ATMs, allowing depositor of other banks access their account through a bank’s ATM.
+The intention of text summarization is to express the content of a document in a condensed form that meets the needs of the user . For more information than can realistically be digested is available on the World-Wide Web and in other electronic forms. News information, biographical information, minutes of meetings missed -- it isn't possible to read everything one would want to read and so some form of information condensation is needed. Secondly, the language of news media may be impenetrable to some people -- for example, children or people learning English as a foreign language. Some method of language simplication would be useful, as well as a method of providing the background knowledge adults take for granted. A solution that addressed both of those problems would enable a wider range of people to be aware of a greater amount of information.
+Usefull Links:
+1. Arpita Sahoo,Dr.Ajit Kumar Nayak,“Review Paper on Extractive Text Summarization”,In International Journal of Engineering Research in Computer Science and Engineering,April 2018.
+2. Mehdi Allahyari, Seyedamin Pouriyeh, Mehdi Assefi, Saeid Safaei, Elizabeth D. Trippe, Juan B. Gutierrez, Krys Kochut,“Text Summarization Techniques: A Brief Survey” In Computation and Language,July  2017.
+
 ## Cost and Features 
 **Cost**
 ATMs can vary in price ($2,000-$8,000), but typically the average new, freestanding ATM machine will cost around $2,300 – $3,000.
 
 **Feature**
- ATMs can help us with a number of basic transactions. we can transfer funds, make a deposit (by cash or check), add funds to a prepaid card, make cash withdrawals and more.The features of the automated teller machine include the following:
-1. Transfer funds between linked bank accounts
-2. Receive account balance
-3. Prints recent transactions list
-4. Change your pin
-5. Deposit your cash
-6. Prepaid mobile recharge
-7. Bill payments
-8. Cash withdrawal
+
+1. Summarizing reduces perusing time
+2. While investigating reports, outlines make the determination procedure simpler
+3. Summarization improves the adequacy of ordering
+4. Summarization calculations are less one-sided than human summarizers
+5. Personalized summaries are useful in question-answering systems as they provide personalized information
+6. Utilizing programmed or Summarization frameworks empower business theoretical administrations to build the number of content archives they can process
 
 ## Defining the System
 ![image](https://github.com/Subhashini2046/ResearchProduct/blob/ProductSdlc/1_Requirements/ATM.png)
@@ -32,12 +31,11 @@ ATMs can vary in price ($2,000-$8,000), but typically the average new, freestand
 
 ## Who:
 
-**John Shepherd Barron(INVENTOR)**
-John Shepherd Barron born in India to Scottish parents in 1925 was the mastermind behind this ATM.
+This system is helpful for all the people who want the summary for any Text document.
 
 ## What:
 
-We all hate to go to the bank and stand in a queue to take money out. It’s because of the busy schedule and lack of time and strict banking hours. At the present scenario, it has become challenging to maintain the same. With the invention of the ATM and its instrument ATM card, our lives have become comfortable and relax.
+The Extractive text Summarization System summarizes the text of any document.
 
 ## When:
  **June 1967**

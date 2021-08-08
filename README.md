@@ -1,5 +1,7 @@
 # SDLC Activity Based Learning
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b67da2db5c7b4a51a1aa1f80bcae877e)](https://app.codacy.com/gh/Subhashini2046/ResearchProduct?utm_source=github.com&utm_medium=referral&utm_content=Subhashini2046/ResearchProduct&utm_campaign=Badge_Grade_Settings)
+
 
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
